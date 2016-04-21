@@ -25,7 +25,7 @@
 //
 
 
-import "jvision_top.proto";
+import "telemetry_top.proto";
 
 
 //

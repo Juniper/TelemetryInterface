@@ -31,7 +31,7 @@
 // Version 1.1
 //
 
-import "jvision_top.proto";
+import "telemetry_top.proto";
 
 //
 // This occupies branch 6 from JuniperNetworksSensors
